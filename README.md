@@ -1,4 +1,4 @@
-# Funçoes!! ⚠️
+# Funções!! ⚠️
 
 ## Descrição
 * Este projeto simples consiste em mostrar as varias funções diferentes que foi desenvolvido.
